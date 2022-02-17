@@ -26,6 +26,17 @@ img.odin {
 
 /* Headers */
 
+h1 {
+    margin: 10px auto 10px auto;
+    padding: 10px;
+    border: 3px dotted;
+    width: 500px;    
+}
+
+h2 {
+    padding: 10px;
+    margin: 5px;
+}
 
 /* */
 
